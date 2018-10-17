@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "description": "",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "classnames": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/core": "latest"
+  },
+  "keywords": [],
+  "name": "login-test"
+}
